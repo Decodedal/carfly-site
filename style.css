@@ -1,0 +1,31 @@
+body{
+    background-color: #222222;
+}
+#carhead{
+    width: 100vw;
+    height: 120rem;
+    position: relative;
+    border-radius: 50px;
+}
+.logo{
+    height: 10rem;
+    width: 31rem;
+    position: absolute;
+    z-index: 10;
+    top: 4rem;
+    left: 5rem;
+}
+.shape {
+    width: 13rem;
+    height: 11rem;
+    top: 4rem;
+    left: 36rem;
+}
+.royal {
+    position: absolute;
+    z-index: 10;
+    width: 25rem;
+    height: 13rem;
+    top: 4rem;
+    right: 2rem;
+}
