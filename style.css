@@ -40,3 +40,28 @@ h3{
     letter-spacing: 1rem;
     text-shadow:2px 2px 2px #222222;
 }
+.copy{
+    height: 80rem;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex: auto;
+}
+.copy p{
+    color: #FFD600;
+    font-size: 5rem;
+    text-align: center;
+    letter-spacing: 1rem;
+    font-family: 'Tinos', serif;
+}
+.car3{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    flex: auto;
+}
+.car-pic{
+    width: 1015px;
+}
