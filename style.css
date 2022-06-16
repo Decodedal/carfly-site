@@ -6,6 +6,7 @@ body{
     height: 120rem;
     position: relative;
     border-radius: 50px;
+    transition: all 5s;
 }
 .logo{
     height: 10rem;
@@ -130,7 +131,7 @@ left:60% ;
     background-color: rgba(0, 0, 0, 0);
     border-style: none;
     color: white;
-    font-size: 30px;
+    font-size: 60px;
     cursor: pointer;
 }
 
