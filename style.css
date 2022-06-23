@@ -6,7 +6,7 @@ body{
     height: 120rem;
     position: relative;
     border-radius: 50px;
-    transition: all 5s;
+    /* transition: all 5s; */
 }
 .logo{
     height: 10rem;
